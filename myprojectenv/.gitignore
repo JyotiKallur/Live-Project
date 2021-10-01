@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+myprojectenv/
+db.sqlite3
+.vscode/
